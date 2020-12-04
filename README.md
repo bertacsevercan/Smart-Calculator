@@ -5,3 +5,5 @@ This is a JetBrains Academy project and In this project, I have created a smart 
 - Topics practised: Stack, Queue, Deque, Dictionaries
 
 - Technologies used: Python, Deque, Load module
+
+![demo](smartCalcDemo.gif)
